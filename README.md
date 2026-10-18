@@ -2,10 +2,9 @@
 
 在线玩：https://JiangYing854.github.io/shiju-chengshi/
 
+单文件离线版在仓库根目录的 release 里，或直接双击本地 `拾句成诗.html`。
+
 玩法：选一首花朝诗 → 角色自动奔跑 → 只用【跳】【滑】躲石头与飞鸟 → 沿路拾 2~3 字诗句碎片，
 避开「换字」「颠倒」两种干扰碎片，在诗匣里拼出全诗，按准确率博知县 / 知府 / 宰相。
 
 电脑：空格 / ↑ 跳，↓ 滑；手机：点屏幕左右两侧或底部两个按钮。
-
-> 国内访问 GitHub Pages 可能偏慢，可用 CDN 镜像：
-> https://gcore.jsdelivr.net/gh/JiangYing854/shiju-chengshi@main/index.html
